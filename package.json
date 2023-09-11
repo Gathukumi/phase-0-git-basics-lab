@@ -31,6 +31,7 @@
     "mocha-multi": "^1.1.0"
   },
   "dependencies": {
+    "@solstice.sebastian/simple-moving-average": "^1.1.2",
     "chai-fs": "^2.0.0"
   }
 }
